@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Diff_Link_ListView</string>
+    <string-array name="link">
+        <item>http://www.gmail.com</item>
+        <item>http://www.google.com</item>
+        <item>http://www.facebook.com</item>
+        <item>http://www.twitter.com</item>
+        <item>http://www.wikipedia.com</item>
+    </string-array>
+</resources>
